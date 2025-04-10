@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laboratorio de Programacion y Lenguajes",
+    "cantidad_alumnos": 51
+  },
+  {
+    "id": 2,
+    "nombre": "Progrmacion con Objetos 1",
+    "cantidad_alumnos": 44
+  },
+  {
+    "id": 3,
+    "nombre": "Matemática I",
+    "cantidad_alumnos": 33
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "UNPAZ",
+  "license": "ISC",
+  "description": "- Correr el comando",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzagerunpaz/cursos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gonzagerunpaz/cursos/issues"
+  },
+  "homepage": "https://github.com/gonzagerunpaz/cursos#readme"
+}
